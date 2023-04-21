@@ -1,0 +1,10 @@
+site_name: Site da cor Anil
+site_author: Claudilson & Felipe & Thiago
+site_dir: /var/www/html
+
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: indigo
